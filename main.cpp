@@ -4,4 +4,6 @@ using namespace std;
 
 int main() {
     Pstring p;
+    Pstring q;
+    PString g("ho");
 }
