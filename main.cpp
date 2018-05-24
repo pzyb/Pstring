@@ -4,5 +4,5 @@ using namespace std;
 
 int main() {
     Pstring p;
-    p = "hello";
+    p = "hi";
 }
