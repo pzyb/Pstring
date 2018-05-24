@@ -4,5 +4,5 @@ using namespace std;
 
 int main() {
     Pstring p;
-    Pstring q;
+    string p;
 }
